@@ -1,0 +1,23 @@
+{
+  "name": "@ampt-templates/javascript-starter",
+  "version": "1.0.0",
+  "description": "Ampt JavaScript template",
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "ampt"
+  },
+  "ampt": {
+    "app": "javascript-starter",
+    "org": "emrah"
+  },
+  "files": [
+    "*"
+  ],
+  "dependencies": {
+    "@ampt/data": "^1.0.4",
+    "axios": "^1.5.1",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
