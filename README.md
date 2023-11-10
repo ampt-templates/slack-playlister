@@ -9,7 +9,7 @@
 
 ## Welcome to Ampt!
 
-[<img src="https://getampt.com/button"/>](https://ampt.dev/start?template=slack-playlister)
+[<img src="https://getampt.com/button"/>](https://ampt.dev/start?template=spotify-slack-playlister)
 
 This is app is used as an integration with any Slack channel. It listens to Spotify track URL's for any subscribed channel, and adds them into a central playlist. You will need to create a Slack app and Spotify app to make this ready. For detailed instructions on setting the Slack/Spotify apps up, see the tutorial blog post here.
 
